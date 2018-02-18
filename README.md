@@ -9,7 +9,9 @@
 Sample document:
 
 This-is-my-first-assignment.
+
 It-will-count-the-number-of-lines-in-this-document.
+
 The-total-number-of-lines-is-3
 
 
